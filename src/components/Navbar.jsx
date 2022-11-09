@@ -71,7 +71,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>Hollow Shop</Logo>
+          <Logo>HOLLOW SHOP</Logo>
         </Center>
         <Right>
           <MenuItem>REGISTER</MenuItem>
